@@ -59,5 +59,3 @@ If you are self-studying, follow the directories in order:
 2. Move to `intermediate/`, focusing on how memory layout affects performance.
 3. Understand `advanced/` concepts, paying special attention to how warps execute instructions.
 4. Finally, study `real_world/` to see how shared memory and reductions are put together in practical algorithms.
-
-Happy coding!
